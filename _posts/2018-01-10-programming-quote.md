@@ -1,6 +1,6 @@
 ---
 layout: post
-title: programming quote
+title: Programming Quote
 date: 2018-01-10
 ---
 
